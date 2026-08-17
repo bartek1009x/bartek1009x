@@ -1,1 +1,1 @@
-I'm writing a game in Java, have experience in Lua/Luau and have also written a few lines of Rust, C#, Beef and C++ in my life, but not too many. 
+I'm writing a game in Java and a game dev framework for Luau in C++, have experience in normal Lua too and have also written a few lines of C# and Rust in my life, but not too many. 
